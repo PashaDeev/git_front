@@ -1,0 +1,11 @@
+.section_space-h_m {
+  padding-left: var(--space-m);
+  padding-right: var(--space-m);
+}
+
+@media (--large-device) {
+  .section_space-h_m {
+    padding-left: var(--space-xxl);
+    padding-right: var(--space-xxl);
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "plugins": {
+    "posthtml-include": {
+      "encoding": "utf8"
+    },
+    "posthtml-extend": {
+      "encoding": "utf8",
+      "root": "./src/"
+    }
+  }
+}

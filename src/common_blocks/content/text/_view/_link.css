@@ -1,0 +1,4 @@
+.text_view_link {
+  color:  var(--text-color-link);
+  cursor: pointer;
+}
